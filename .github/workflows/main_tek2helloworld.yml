@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Tek2HelloWorld'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EBF68370654441DE8F242B7047F1A457 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D17D3270F9A04269BB88DABB98F6BBED }}
           package: '*.jar'
